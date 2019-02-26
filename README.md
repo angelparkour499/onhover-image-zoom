@@ -7,8 +7,8 @@ The code make zoom on the image and place the zoomin in the wished position of t
 ---
 
 
-![sample #1](https://github.com/angelparkour499/javascript-slideshow/blob/master/Slideshow_sample.png)
-![sample #2](https://github.com/angelparkour499/javascript-slideshow/blob/master/Slideshow_sample%232.png)
+![sample #1](https://github.com/angelparkour499/onhover-image-zoom/blob/master/Sample.png)
+![sample #2](https://github.com/angelparkour499/onhover-image-zoom/blob/master/Sample%202.png)
 
 
 *It can be used on a slideshow as well*
