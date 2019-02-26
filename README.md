@@ -1,6 +1,6 @@
 # Onhover image zoom
 
-The code make zoom on the image and place the zoomin in the wished position of the screen
+The code make zoom on the image and place the zoomin in the wished position of the screen [codepen sample](https://codepen.io/queflojera/details/ompPLj)
 
 
 ## Slideshow samples
